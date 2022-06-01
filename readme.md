@@ -1,8 +1,11 @@
 # PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs
 
+**This a fork from the repo of the first author of our paper -- most recent upadates will appear first there.**
+
 ## [ [paper](https://arxiv.org/pdf/2206.00048.pdf) | [project page](http://eecs.qmul.ac.uk/~jo001/PandA/) | [video](https://www.youtube.com/watch?v=1KY055goKP0) | [edit zoo](https://colab.research.google.com/github/james-oldfield/PandA/blob/main/ffhq-edit-zoo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/james-oldfield/PandA/blob/main/demo.ipynb) ]
 
 ![main.jpg](./images/main.jpg)
+
 
 > **PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs**<br>
 > James Oldfield, Christos Tzelepis, Yannis Panagakis, Mihalis A. Nicolaou, and Ioannis Patras<br>
